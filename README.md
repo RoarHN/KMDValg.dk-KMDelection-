@@ -1,4 +1,5 @@
-# KMDValg.dk KMDelection
+# KMDValg.dk
+# 
 # Scraping data from public homepage containing danish election results
 # Goals:
 # To create an excel sheat for each type of election; communal, regional, national and EU. Which contains the amount of votes each person and party received in each of the voting district.
